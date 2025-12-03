@@ -4,7 +4,8 @@ This project is part of a web development learning exercise focused on building 
 **Live Link:** https://scribencode.github.io/landingPage/
 ---
 **Link to design:** https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
-##Page Sections
+
+## Page Sections
 - **Hero Section** – main headline (hero text)  
 - **Section Two** – feature or content layout using flexbox  
 - **Section Three** – additional information/images  
